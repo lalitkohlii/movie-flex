@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-flex.git/static/css/main.d88e69a0.chunk.css",
+    "main.js": "/movie-flex.git/static/js/main.26016528.chunk.js",
+    "main.js.map": "/movie-flex.git/static/js/main.26016528.chunk.js.map",
+    "runtime-main.js": "/movie-flex.git/static/js/runtime-main.1ceb51a8.js",
+    "runtime-main.js.map": "/movie-flex.git/static/js/runtime-main.1ceb51a8.js.map",
+    "static/js/2.f747fe09.chunk.js": "/movie-flex.git/static/js/2.f747fe09.chunk.js",
+    "static/js/2.f747fe09.chunk.js.map": "/movie-flex.git/static/js/2.f747fe09.chunk.js.map",
+    "index.html": "/movie-flex.git/index.html",
+    "precache-manifest.b694f324e4551dfe2da823473cb53d55.js": "/movie-flex.git/precache-manifest.b694f324e4551dfe2da823473cb53d55.js",
+    "service-worker.js": "/movie-flex.git/service-worker.js",
+    "static/css/main.d88e69a0.chunk.css.map": "/movie-flex.git/static/css/main.d88e69a0.chunk.css.map",
+    "static/js/2.f747fe09.chunk.js.LICENSE.txt": "/movie-flex.git/static/js/2.f747fe09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ceb51a8.js",
+    "static/js/2.f747fe09.chunk.js",
+    "static/css/main.d88e69a0.chunk.css",
+    "static/js/main.26016528.chunk.js"
+  ]
+}
